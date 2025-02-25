@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
-
-<p>Hello World! </p> 
+Hello World!
 
 
-</body>
-</html>
